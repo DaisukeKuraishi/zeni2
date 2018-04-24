@@ -1,12 +1,24 @@
 
+@import "bootstrap";
+
+
  @import "bootstrap-sprockets";
+
+ @import "bootstrap-grid";
+ @import "bootstrap-grid.min";
+ @import "bootstrap-reboot";
+ @import "bootstrap-reboot.min";
  @import "bootstrap";
- @import "font-awesome";
- @import "simple-line-icons";
+ @import "bootstrap.min";
 
 
  @import "variables";
  @import "mixins";
+
+ @import "font-awesome";
+ @import "simple-line-icons";
+
+
  @import "global";
  @import "masthead";
  @import "sidebar";
